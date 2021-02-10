@@ -23,7 +23,7 @@ Persistency applyed with H2 database (pom.xml) and JPA with Hibernate doing quer
 
 
 
-- Observation: You can build with IDEA(mvn build's commands in IDE) or Using Command Line(mvn clean install inside the project directory) and run the project with <strong>java -jar 'local path of the project in your machine'</strong>
+- Observation: You can build with IDEA(mvn build's commands in IDE) or Using Command Line(<strong><b>mvn clean install</strong></b> inside the project directory) and run the project with <strong>java -jar 'local path of the project in your machine'</strong>
 
 
 
