@@ -14,9 +14,9 @@ Persistency applyed with H2 database (pom.xml) and JPA with Hibernate doing quer
 
 <h4>:point_right: Starting the project :point_left:</h4>
 <p>To start the project follow this steps </p>
--[x] Link Tutorial Clone GitHub Project at The end of the page, in Eclipse IDE --> (https://eclipsesource.com/blogs/tutorials/egit-tutorial/)
-[Link Tutorial Clone Github Project at 3:00 minutes, using InteliJ IDEA](https://www.youtube.com/watch?v=aBVOAnygcZw)
-[Link Tutorial Clone GitHub Project at 5:13 minutes, using Apache NetBeans IDE](https://www.youtube.com/watch?v=qEcCS7hudJo)
+- [x] Link Tutorial Clone GitHub Project at The end of the page, in Eclipse IDE --> (https://eclipsesource.com/blogs/tutorials/egit-tutorial/)
+- [x] [Link Tutorial Clone Github Project at 3:00 minutes, using InteliJ IDEA](https://www.youtube.com/watch?v=aBVOAnygcZw)
+- [x] [Link Tutorial Clone GitHub Project at 5:13 minutes, using Apache NetBeans IDE](https://www.youtube.com/watch?v=qEcCS7hudJo)
 
 
 - Observation: You can build with IDEA(mvn build's commands in IDE) or Using Command Line(mvn clean install inside the project directory) and run the project with <strong>java -jar 'local path of the project in your machine'</strong>
