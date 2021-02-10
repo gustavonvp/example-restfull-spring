@@ -1,7 +1,7 @@
 # example-restfull-spring
 Restfull Spring App
 
-<h2>:exclamation:>Explanation:exclamation:</h2>
+<h2>:exclamation:Explanation:exclamation:</h2>
 <p>This is a basic example using [Spring Framework](https://start.spring.io/), and some dependences do persistency data when you start the application with spring or using the jar with the command line or IDE. </p>
 
 
